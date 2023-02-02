@@ -665,7 +665,7 @@ path[d="M5.43309 21C5.35842 21 5.30189 20.9325 5.31494 20.859L5.99991 17H2.14274
   transition: transform 0.4s;
   position: absolute;
   animation-name: pulsingBackground;
-  animation-duration: 5.5s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   transform: scaleX(0);
   transform-origin: left;
@@ -1317,7 +1317,7 @@ strong {
   bottom: 2px;
   transition: transform 0.4s;
   animation-name: pulsingBackground;
-  animation-duration: 5.5s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   transform: scaleX(0);
   transform-origin: left;
@@ -1578,7 +1578,7 @@ strong {
   bottom: 2px;
   transition: transform 0.4s;
   animation-name: pulsingBackground;
-  animation-duration: 5.5s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   transform: scaleX(0);
   transform-origin: left;
@@ -3599,7 +3599,7 @@ strong {
   bottom: 2px;
   transition: transform 0.4s;
   animation-name: pulsingBackground;
-  animation-duration: 5.5s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   transform: scaleX(0);
   transform-origin: left;
@@ -3777,7 +3777,7 @@ strong {
   bottom: 1px;
   transition: transform 0.3s;
   animation-name: pulsingBackground;
-  animation-duration: 5.5s;
+  animation-duration: 30s;
   animation-iteration-count: infinite;
   transform: scaleX(0);
   transform-origin: left;
