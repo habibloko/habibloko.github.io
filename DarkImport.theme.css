@@ -15,12 +15,12 @@
 	height: 100%;
 	background: linear-gradient(
 			to right,
-			rgba(218, 212, 187, 0.05),
+			rgb(0, 0, 0),
 			transparent 30%,
 			transparent 80%,
-			rgba(218, 212, 187, 0.05)
+			rgb(31, 30, 30)
 		),
-		radial-gradient(transparent 50%, rgba(218, 212, 187, 0.1));
+		radial-gradient(transparent 50%, rgb(31, 30, 30));
 	user-select: none;
 	pointer-events: none;
 }
