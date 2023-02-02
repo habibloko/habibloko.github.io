@@ -661,16 +661,7 @@ path[d="M5.43309 21C5.35842 21 5.30189 20.9325 5.31494 20.859L5.99991 17H2.14274
 .wrapper-NhbLHG .actionIcon-2sw4Sl {
   transition: color 0.2s;
 }
-.wrapper-NhbLHG .mainContent-20q_Hp:before {
-  transition: transform 0.4s;
-  position: absolute;
-  animation-name: pulsingBackground;
-  animation-duration: 30s;
-  animation-iteration-count: infinite;
-  transform: scaleX(0);
-  transform-origin: left;
-  width: 100%;
-}
+
 .wrapper-NhbLHG.modeConnected-NrO4cP, .wrapper-NhbLHG.modeSelected-3DmyhH, .wrapper-NhbLHG:hover {
   box-shadow: 0 1px var(--color-low), 0 -1px var(--color-low);
 }
@@ -1309,21 +1300,6 @@ strong {
 .theme-dark .channel-1Shao0 .layout-1LjVue {
   background-color: transparent !important;
 }
-.theme-dark .channel-1Shao0 .layout-1LjVue::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 2px;
-  bottom: 2px;
-  transition: transform 0.4s;
-  animation-name: pulsingBackground;
-  animation-duration: 30s;
-  animation-iteration-count: infinite;
-  transform: scaleX(0);
-  transform-origin: left;
-  width: 100%;
-  box-shadow: 0 0 2px var(--color-low);
-}
 .theme-dark .channel-1Shao0:hover .interactive-26HRN_,
 .theme-dark .channel-1Shao0 .interactiveSelected-29CP8y {
   box-shadow: 0 1px var(--color-low), 0 -1px var(--color-low);
@@ -1570,21 +1546,7 @@ strong {
   background-color: transparent !important;
   border-radius: 0;
 }
-.container-1oeRFJ .layout-1qmrhw:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 2px;
-  bottom: 2px;
-  transition: transform 0.4s;
-  animation-name: pulsingBackground;
-  animation-duration: 30s;
-  animation-iteration-count: infinite;
-  transform: scaleX(0);
-  transform-origin: left;
-  width: 100%;
-  box-shadow: 0 0 2px var(--color-low);
-}
+
 .container-1oeRFJ.selected-1-Z6gm, .container-1oeRFJ:hover {
   color: var(--color-high) !important;
   box-shadow: 0 1px var(--color-low), 0 -1px var(--color-low);
