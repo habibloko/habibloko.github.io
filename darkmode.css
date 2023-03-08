@@ -3,7 +3,7 @@
 		center/cover no-repeat;
 }
 
-.tutorialContainer-1pL9QS .svg-2zuE5p {
+.tutorialContainer-1pL9QS .svg-2ifYOU {
 	background: url('https://raw.githubusercontent.com/habibloko/yorhadarks/main/wallpapers/2.png')
 		center/contain no-repeat;
 }
@@ -15,12 +15,12 @@
 	height: 100%;
 	background: linear-gradient(
 			to right,
-			rgb(0, 0, 0),
+			rgba(218, 212, 187, 0.05),
 			transparent 30%,
 			transparent 80%,
-			rgb(31, 30, 30)
+			rgba(218, 212, 187, 0.05)
 		),
-		radial-gradient(transparent 50%, rgb(31, 30, 30));
+		radial-gradient(transparent 50%, rgba(218, 212, 187, 0.1));
 	user-select: none;
 	pointer-events: none;
 }
